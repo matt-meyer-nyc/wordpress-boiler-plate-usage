@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/blocks/secondblock/style.scss"],"names":[],"mappings":"AAAA;AACA,2BAA2B","file":"style.css","sourcesContent":[".wp-block-mytheme-blocks-secondblock {\n  background-color: purple; }\n"],"sourceRoot":""}
